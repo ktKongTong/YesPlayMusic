@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://nemusic-api.ktlab.cn/:match*"
+    }
+  ]
+}
